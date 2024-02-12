@@ -46,7 +46,7 @@ body {
 .player {
   display: block;
   margin-top: 18%;
-  margin-bottom: 1%;
+  /* margin-bottom: 1%; */
 }
 
 .player-box {
