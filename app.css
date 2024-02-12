@@ -45,9 +45,8 @@ body {
 
 .player {
   display: block;
-  /* padding: 5%; */
   margin-top: 20%;
-  margin-bottom: 5%;
+  margin-bottom: 1%;
 }
 
 .player-box {
